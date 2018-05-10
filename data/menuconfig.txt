@@ -1,0 +1,6 @@
+&autolayout=true&
+&menuconfig=00001110111&
+&spacing=6&
+&side_autolayout=true&
+&sidemenuconfig=111&
+&ypos=-20&

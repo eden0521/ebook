@@ -1,0 +1,11 @@
+mc_menu[0] = mc_menu_search;
+mc_menu[1] = mc_menu_flip;
+mc_menu[2] = mc_menu_zoom;
+mc_menu[3] = mc_menu_index;
+mc_menu[4] = mc_menu_bookmark;
+mc_menu[5] = mc_menu_print;
+mc_menu[6] = mc_menu_memo;
+mc_menu[7] = mc_menu_memolist;
+mc_menu[8] = mc_menu_pen;
+mc_menu[9] = mc_menu_slide;
+mc_menu[10] = mc_menu_help;

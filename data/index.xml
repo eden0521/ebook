@@ -1,0 +1,20 @@
+﻿<node>
+	<node label="大目錄1" data="1" depth="1">
+		<node label="中目錄1" data="1"/>
+		<node label="中目錄2" data="2"/>
+		<node label="中目錄3" data="3"/>
+		<node label="中目錄4" data="4"/>
+	</node>	
+	<node label="大目錄2" data="1" depth="1">
+		<node label="中目錄1" data="1"/>
+		<node label="中目錄2" data="2"/>
+		<node label="中目錄3" data="3"/>
+		<node label="中目錄4" data="4"/>
+	</node>	
+	<node label="大目錄3" data="1" depth="1">
+		<node label="中目錄1" data="1"/>
+		<node label="中目錄2" data="2"/>
+		<node label="中目錄3" data="3"/>
+		<node label="中目錄4" data="4"/>
+	</node>	
+</node>
